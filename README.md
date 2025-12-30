@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Fullstack Software Developer & Cybersecurity Researcher</h1>
+<h1 align="center">Fullstack Developer & Cybersecurity Researcher</h1>
 
 ###
 
