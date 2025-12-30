@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Fullstack Developer & Cybersecurity Researcher</h1>
+<h1 align="center">Fullstack Software Engineer & Cybersecurity Researcher</h1>
 
 ###
 
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###
