@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">System Status: ⚠️ |  Developer Drone  |  Sleeping</p>
+<p align="center">System Status: ⚠️ |  Developer Drone  |  White/Grey Hat Developer</p>
 
 ###
 
